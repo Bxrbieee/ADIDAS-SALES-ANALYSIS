@@ -16,7 +16,7 @@ Analyze the sales distribution among various Adidas products using a bar chart.
 Visualize the contribution of different retailers to total sales using a bar chart.
 
 dashboard interaction 
-<a href="https://github.com/Bxrbieee/ADIDAS-SALES-ANALYSIS/blob/main/Adidas%20US%20Sales%20Datasets.xlsx?raw=true" target="_blank">*
+<a href="https://github.com/Bxrbieee/ADIDAS-SALES-ANALYSIS/blob/main/Adidas%20US%20Sales%20Datasets.xlsx?raw=true" target="_blank">
 
 ##process
 - Define the project objectives, scope, and deliverables.
