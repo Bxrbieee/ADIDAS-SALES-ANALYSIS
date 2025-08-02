@@ -1,2 +1,2 @@
 # ADIDAS-SALES-ANALYSIS
-I developed a comprehensive data analysis project tutorial using Power BI, Tableau, SQL, and Excel. The project guides users through the entire data analysis process, offering hands-on experience and insights into using top industry tools for effective data-driven decision-making.
+To analyze Adidas sales data by region, product type, and retailer in order to uncover sales trends, evaluate performance across markets, and provide actionable insights to optimize marketing, product strategy, and retail operations.
