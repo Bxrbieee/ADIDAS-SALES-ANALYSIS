@@ -2,7 +2,7 @@
 ## project objective
 To analyze Adidas sales data by region, product type, and retailer in order to uncover sales trends, evaluate performance across markets, and provide actionable insights to optimize marketing, product strategy, and retail operations.
 ## Dataset used 
-<a href="https://github.com/Bxrbieee/ADIDAS-SALES-ANALYSIS/blob/main/Adidas%20US%20Sales%20Datasets.xlsx?raw=true" target="_blank">Télécharger le fichier Adidas US Sales Dataset</a>
+<a href="https://github.com/Bxrbieee/ADIDAS-SALES-ANALYSIS/blob/main/Adidas%20US%20Sales%20Datasets.xlsx?raw=true" target="_blank"> Download the file Adidas US Sales Dataset</a>
 ## Charts Requirements
 1. Total Sales by Month (Area Chart):
 Visualize the monthly distribution of total sales to identify peak periods.
@@ -20,7 +20,7 @@ dashboard interaction
 
 
 
-##process
+## process
 - Define the project objectives, scope, and deliverables.
 - Collect the data by downloading and exploring the dataset.
 - Clean the data by fixing errors, handling missing values, and formatting columns.
